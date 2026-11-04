@@ -4,17 +4,20 @@
       "ssd": "HP2025081402009155",
       "kompyuterNomi": "WIN-NPPUU03GPCN",
       "foydalanuvchiNomi": "User",
-      "ruxsat": true
+      "ruxsat": true,
+      
     },
     {
       "ssd": "W62D7SAE",
       "kompyuterNomi": "WIN-JE4TTV4E953",
       "foydalanuvchiNomi": "user",
-      "ruxsat": false
+      "ruxsat": true,
+      "QARA OY": 1
     },
     {
       "ssd": "26020009606000340",
-      "ruxsat": false
+      "ruxsat": true,
+      "QARA OY": 2
     }
   ]
 }
