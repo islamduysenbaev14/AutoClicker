@@ -22,13 +22,15 @@
       "ssd": "W62CTJLJ",
       "kompyuterNomi": "WIN-BTCE6DNG6S9",
       "foydalanuvchiNomi": "user",
-      "ruxsat": false
+      "ruxsat": true,
+      "PPJ" : 1
     },
     {
       "ssd": "WD-WXL1A39842XC",
       "kompyuterNomi": "WIN-84BGJ3AQAHD",
       "foydalanuvchiNomi": "user",
-      "ruxsat": false
+      "ruxsat": true,
+      "PPJ" :2
     }
   ]
 }
