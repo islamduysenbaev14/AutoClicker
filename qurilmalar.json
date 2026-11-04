@@ -4,8 +4,7 @@
       "ssd": "HP2025081402009155",
       "kompyuterNomi": "WIN-NPPUU03GPCN",
       "foydalanuvchiNomi": "User",
-      "ruxsat": true,
-      
+      "ruxsat": true
     },
     {
       "ssd": "W62D7SAE",
@@ -18,6 +17,12 @@
       "ssd": "26020009606000340",
       "ruxsat": true,
       "QARA OY": 2
+    },
+    {
+      "ssd": "W62CTJLJ",
+      "kompyuterNomi": "WIN-BTCE6DNG6S9",
+      "foydalanuvchiNomi": "user",
+      "ruxsat": false
     }
   ]
 }
