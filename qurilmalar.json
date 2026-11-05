@@ -5,7 +5,7 @@
       "kompyuterNomi": "WIN-NPPUU03GPCN",
       "foydalanuvchiNomi": "User",
       "ruxsat": true,
-      "Aydinjol" : 1
+      "Aydinjol": 1
     },
     {
       "ssd": "W62D7SAE",
@@ -24,14 +24,20 @@
       "kompyuterNomi": "WIN-BTCE6DNG6S9",
       "foydalanuvchiNomi": "user",
       "ruxsat": true,
-      "PPJ" : 1
+      "PPJ": 1
     },
     {
       "ssd": "WD-WXL1A39842XC",
       "kompyuterNomi": "WIN-84BGJ3AQAHD",
       "foydalanuvchiNomi": "user",
       "ruxsat": true,
-      "PPJ" :2
+      "PPJ": 2
+    },
+    {
+      "ssd": "07012226G0339",
+      "kompyuterNomi": "WIN-0NJMMM9CAOG",
+      "foydalanuvchiNomi": "User",
+      "ruxsat": false
     }
   ]
 }
