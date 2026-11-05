@@ -34,17 +34,11 @@
       "PPJ": 2
     },
     {
-      "ssd": "07012226G0339",
-      "kompyuterNomi": "WIN-0NJMMM9CAOG",
-      "foydalanuvchiNomi": "User",
-      "ruxsat": true,
-      "QARA OY": 3
-    },
-    {
       "ssd": "PNH01249037030303891",
       "kompyuterNomi": "WIN-VMK5UPTOEF9",
       "foydalanuvchiNomi": "user",
-      "ruxsat": false
+      "ruxsat": true,
+       "QARA OY": 3
     }
   ]
 }
