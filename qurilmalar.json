@@ -38,7 +38,13 @@
       "kompyuterNomi": "WIN-VMK5UPTOEF9",
       "foydalanuvchiNomi": "user",
       "ruxsat": true,
-       "QARA OY": 3
+      "QARA OY": 3
+    },
+    {
+      "ssd": "30055566014",
+      "kompyuterNomi": "DESKTOP-7R5B6SN",
+      "foydalanuvchiNomi": "ислам",
+      "ruxsat": false
     }
   ]
 }
