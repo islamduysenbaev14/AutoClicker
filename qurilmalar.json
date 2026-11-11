@@ -45,6 +45,12 @@
       "kompyuterNomi": "DESKTOP-7R5B6SN",
       "foydalanuvchiNomi": "ислам",
       "ruxsat": true
+    },
+    {
+      "ssd": "07312223F1683",
+      "kompyuterNomi": "DESKTOP-BAGD6CK",
+      "foydalanuvchiNomi": "User",
+      "ruxsat": false
     }
   ]
 }
