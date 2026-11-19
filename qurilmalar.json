@@ -36,28 +36,16 @@
       "ruxsat": true
     },
     {
-      "ssd": "07312223F1683",
-      "kompyuterNomi": "DESKTOP-BAGD6CK",
-      "foydalanuvchiNomi": "Agitay Adilov",
-      "ruxsat": false
-    },
-    {
       "ssd": "W62D7SWZ",
       "kompyuterNomi": "WIN-DQS1G54898G",
       "foydalanuvchiNomi": "Aydinjol -2 ",
       "ruxsat": true
     },
     {
-      "ssd": "YS202010749182HP",
-      "kompyuterNomi": "WIN-S8FRVK7H5U2",
-      "foydalanuvchiNomi": "Agitay Adiloov",
-      "ruxsat": false
-    },
-    {
       "ssd": "26020009606000321",
       "kompyuterNomi": "DESKTOP-1LNFI5O",
       "foydalanuvchiNomi": "name: Abatbay",
-      "ruxsat": false
+      "ruxsat": true
     }
   ]
 }
