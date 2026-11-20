@@ -10,11 +10,11 @@
       "ssd": "W62D7SAE",
       "kompyuterNomi": "WIN-JE4TTV4E953",
       "foydalanuvchiNomi": "QARA OY - 1",
-      "ruxsat": true
+      "ruxsat": false
     },
     {
       "ssd": "26020009606000340",
-      "ruxsat": true,
+      "ruxsat": false,
       "foydalanuvchiNomi": "QARA OY - 2"
     },
     {
@@ -33,7 +33,7 @@
       "ssd": "PNH01249037030303891",
       "kompyuterNomi": "WIN-VMK5UPTOEF9",
       "foydalanuvchiNomi": "QARA OY - 3",
-      "ruxsat": true
+      "ruxsat": false
     },
     {
       "ssd": "W62D7SWZ",
